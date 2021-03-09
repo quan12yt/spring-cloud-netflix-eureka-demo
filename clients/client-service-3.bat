@@ -1,0 +1,1 @@
+java -jar -Dspring.profiles.active=client-replica03 discovery-client-0.0.1-SNAPSHOT.jar
